@@ -1,0 +1,31 @@
+body {
+	max-width: 100%;
+	background: #F8F8FF;
+	margin: 0;
+}
+
+.box {
+	margin: 5px 5px 5px 5px;
+	padding:  0 0 0 0;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	background-color: white;
+}
+
+.in-box {
+	padding: 10px 10px 10px 10px;
+}
+
+#profile-pic {
+	max-width: 100%;
+}
+
+#profile-name {
+	text-align: center;
+	margin-top: -35px;
+	background: white;
+	opacity: 0.5;
+}
+
+hr {
+	border-color: #95a791;
+}
