@@ -18,6 +18,8 @@ body {
 
 #profile-pic {
 	max-width: 100%;
+	display: block;
+	margin: auto;
 }
 
 #profile-name {
